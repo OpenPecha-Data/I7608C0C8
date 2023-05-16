@@ -1,0 +1,18 @@
+id: I7608C0C8
+default_language: de
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:32:08.400461
+last_modified: 2023-01-04 11:32:08.400481
+source_metadata:
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+bases:
+  F315:
+    title: The Aspiration of the Vajradhātu Maṇḍala
+    base_file: F315.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
